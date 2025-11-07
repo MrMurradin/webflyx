@@ -1,1 +1,7 @@
 # contents
+
+titles.md: The movie titles in the Webflyx collection
+
+classics.csv: a comma-separated list of classic movies
+
+quotes: a directory of files containing memorable quotes from movies
